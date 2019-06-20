@@ -1,0 +1,4 @@
+La somme de 2 éléments de  {10,7,3} donne 17?
+true
+La somme de 2 éléments de  {10,7,3} donne 12?
+false
