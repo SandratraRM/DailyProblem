@@ -20,3 +20,6 @@ Chaque paquet contient un exercice journalier.
 
 Dans chaque paquet vous pouvez trouver un fichier Sujet.md qui contient l'énoncé du sujet.
 
+#### Output.txt
+
+Ce fichier contient la sortie console à l'éxecution de la méthode `Main.main` 
