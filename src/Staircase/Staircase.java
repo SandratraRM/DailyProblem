@@ -1,8 +1,8 @@
-package Fibonacci;
+package Staircase;
 
 import java.util.List;
 
-class Fibonacci {
+class Staircase {
 
     /**
      * @param n Le nombre de marches sur l'escalier
@@ -68,7 +68,7 @@ class Fibonacci {
     /**
      *
      * @param n position - 1 dans la suite de fibonacci
-     * @return Un nombre de fibonnaci à n + 1 position
+     * @return Un nombre de fibonacci à n + 1 position
      */
     static int normal(int n) {
         int prev = 0, next = 1, result = 0;
