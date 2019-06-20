@@ -6,11 +6,11 @@ Une repo d'un challenge journalier de [Daily Coding Problem](https://www.dailyco
 ### Index
 
 
-1. Problème sur la page d'accueil: [Escalier](./src/Staircase/) :heavy_check_mark:
+1. Problème sur la page d'accueil: [Escalier](./src/Staircase/) :white_check_mark:
 
-2. Jour 1 (20/06/2019) : [Somme de deux éléments d'une liste donne k?](./src/Addup/) :heavy_check_mark:
+2. Jour 1 (20/06/2019) : [Somme de deux éléments d'une liste donne k?](./src/Addup/) :white_check_mark:
 
-_(Les problèmes avec :heavy_check_mark: sont des problèmes résolus)_
+_(Les problèmes avec :white_check_mark: sont des problèmes résolus)_
 
 ### Paquets
 
