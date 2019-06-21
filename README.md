@@ -10,6 +10,8 @@ Une repo d'un challenge journalier de [Daily Coding Problem](https://www.dailyco
 
 2. Jour 1 (20/06/2019) : [Somme de deux éléments d'une liste donne k?](./src/Addup/) :white_check_mark:
 
+3. Jour 2 (21/06/2019) : [Produit des autres](./src/Product/) :white_check_mark:
+
 _(Les problèmes avec :white_check_mark: sont des problèmes résolus)_
 
 ### Paquets
