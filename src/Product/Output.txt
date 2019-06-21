@@ -1,0 +1,7 @@
+Résolution du problème sans optimisation
+[1, 2, 3, 4] => [24, 12, 8, 6]
+
+============TEST DE PERFORMANCE============
+Pour un array de 10000 éléments:
+ofAllExceptSelf a pris 271837716 nanosecondes.
+optimized a pris 832763 nanosecondes.
