@@ -12,6 +12,8 @@ Une repo d'un challenge journalier de [Daily Coding Problem](https://www.dailyco
 
 3. Jour 2 (21/06/2019) : [Produit des autres](./src/Product/) :white_check_mark:
 
+4. Jour 3 (22/06/2019) : [Serialisation d'un arbre binaire](./src/BinaryTree) :white_check_mark:
+
 _(Les problèmes avec :white_check_mark: sont des problèmes résolus)_
 
 ### Paquets
